@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-212223240059
+212224220039
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
 
