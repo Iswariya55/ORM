@@ -1,5 +1,6 @@
 # Ex02 Django ORM Web Application
-212224220039
+## Reg NO: 212224220039 Name: Iswariya R
+## Date: 08/03/25
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
 
